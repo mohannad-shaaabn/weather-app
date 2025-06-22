@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# weather-app
+A weather web app that shows forecasts for today, tomorrow, and the day after. Users can search by city or country name .
+- Search by city or country name
+   Forecast for:
+  - Today
+  - Tomorrow
+  - Day after tomorrow
+ 
+   Display:
+  - Temperature
+  - Weather condition (e.g., sunny, rainy, cloudy)
+  - Humidity
+  - Wind spee
+ 
+    Responsive design for mobile and desktop
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Technologies Used
+- HTML, CSS, JavaScript
+- React + Vite 
+- OpenWeatherMap API
+>>>>>>> 9dcc545c39b0f5573e42e4cef69738592ef1e3ff
